@@ -1,0 +1,3 @@
+org\example\exoalimentation\infrastructure\aliment\AlimentDao.class
+org\example\exoalimentation\infrastructure\aliment\HibernateUtils.class
+org\example\exoalimentation\infrastructure\aliment\AlimentDaoImpl.class

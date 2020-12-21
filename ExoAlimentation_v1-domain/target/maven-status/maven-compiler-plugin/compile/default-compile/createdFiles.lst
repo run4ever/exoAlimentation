@@ -1,0 +1,4 @@
+org\example\exoalimentation\domain\groupe\Groupe.class
+org\example\exoalimentation\domain\aliment\Aliment.class
+org\example\exoalimentation\domain\composition\Composition.class
+org\example\exoalimentation\domain\sousgroupe\SousGroupe.class

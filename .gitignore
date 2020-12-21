@@ -1,0 +1,4 @@
+.idea/
+ExoAlimentation_v1-infrastructure/src/main/resources/hibernate.cfg.xml
+*.xls
+ExoAlimentation_v1.iml

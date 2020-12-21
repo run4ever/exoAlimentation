@@ -1,0 +1,4 @@
+org\example\exoalimentation\Run.class
+org\example\exoalimentation\controller\swagger\SwaggerConfig.class
+org\example\exoalimentation\controller\swagger\SwaggerResource.class
+org\example\exoalimentation\controller\aliment\AlimentController.class
